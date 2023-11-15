@@ -1,0 +1,7 @@
+This is not a professional encryption, it's just for beginners
+please do not use this for encrypting REAL files, if it's not 
+working please let me know! 
+
+I also wanted to tell you that I'm a beginner, If you spot any
+bugs or problems, or if you have any comments, I'm ready to hear
+it, if my program is trash Tell me that it's trash.
